@@ -62,7 +62,7 @@ cuda版本的pytorch安装,提前安好visual studio，避免系统底层出现�
 
 <img src="pytorch安装.assets/image-20230825100202098.png" alt="image-20230825100202098" style="zoom:80%;" />
 
-打开cmd，输入`cd C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v11.0\extras\demo_suite`
+打开cmd，输入`cd C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v12.2\extras\demo_suite`
 
 然后执行命令：`bandwidthTest.exe`
 
